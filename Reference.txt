@@ -1,0 +1,1 @@
+﻿https://www.codemag.com/Article/1909061/Intro-to-GraphQL-for-.NET-Developers-Schema-Resolver-and-Query-Language
